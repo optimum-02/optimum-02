@@ -17,21 +17,20 @@ Flutter enthusiast, coffee lover ☕, and a tech explorer from Benin. I craft sm
 
 ### 🎫 Ticket Checker App
 🚧 **LaZone (Dec 2024 – Present)**  
-Built a ticket validation app in just 3 months! Features include seamless Flutter Bloc integration, Appwrite backend, and OpenAI API magic.  
-📸 *Peek inside:*  
-![Ticket Checker App](./A_modern_and_clean_illustration_representing_a_tic.png)
+Built a receipt scan app in just 3 months! Features include seamless Flutter Bloc integration, Appwrite backend, and OpenAI API magic.  
+
 
 ### 🚗 Wescoop App
 🌍 **Wescoop Inc (Jul 2023 – Aug 2024)**  
 Improved the Wescoop app's UI/UX, performance, and API security. Now smoother, faster, and cooler than ever! Available on [App Store](https://apps.apple.com/be/app/wescoop/id1619366384) & [Google Play](https://play.google.com/store/apps/details?id=com.wescoop.app).  
 📸 *Behind the scenes:*  
-![Wescoop App](./A_sleek_and_modern_illustration_of_a_ridesharing_m.png)
+<img src="https://play-lh.googleusercontent.com/fmJILwmuN1os1jkM5S4aQMMYqNfNJBQ9bgoj-t6IK8KtWPY8TZWpLdllkWMIZpTbpMY=w5120-h2880-rw" alt="Stories"  height="200"> <img src="https://play-lh.googleusercontent.com/z6NyMsH1kgAy5BhlAXGNsS1cm5Oe3iHgVAffMosQN6tk_JLFapJOSZ7r0G7V-zSLAUo=w5120-h2880-rw" alt="Chat page"  height="200"> <img src="https://play-lh.googleusercontent.com/NT1ZMLZMhSBItp5KfoVGUUFBxl-BBxbd1MEFRt5eyJzw0kfv4oYyiLxrvjRG9RB8Eso=w5120-h2880-rw" alt="Profil page"  height="200">
+
+
 
 ### 🤖 Android Native Project
 💡 **SSBC Sarl Internship (Jul 2020 – Oct 2020)**  
 Dived deep into Java, Firebase, and UI design. Old-school but still cool!  
-📸 *Classic vibes:*  
-![Android Native Project](./A_clean_and_simple_illustration_of_an_Android_nati.png)
 
 ## 📬 Let's Connect!
 
