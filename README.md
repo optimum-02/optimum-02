@@ -34,7 +34,6 @@ Dived deep into Java, Firebase, and UI design. Old-school but still cool!
 
 ## 📬 Let's Connect!
 
-- 📧 [mawou.aa@gmail.com](mailto:mawou.aa@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amedeeahoton)
 
 ---
