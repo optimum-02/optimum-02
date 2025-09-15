@@ -40,7 +40,7 @@ Flutter expert, and a tech explorer from Benin. I craft smooth, high-performance
 
 ---
 
-### Android Native Project
+### Lizon Service (Native Android App)
 SSBC Sarl Internship  - Jul 2020 – Oct 2020 
 
 - Dived deep into Java, Firebase, and UI design. 
