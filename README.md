@@ -1,13 +1,15 @@
 # Hey there, I'm Amédée M. AHOTON 👋🚀
+![linkedin-banner (1)](https://github.com/user-attachments/assets/84fc3211-b3d9-4a2b-a9f1-df244a7310c3)
 
-![flutter-apps_1740878934](https://github.com/user-attachments/assets/f5f783c5-a9ae-483f-81a9-09e9aeba43d3)
 
 ## 🚀 About Me
 
 Flutter expert, and a tech explorer from Benin. I craft smooth, high-performance mobile apps and love building and optimizing softwares. Whether it's UI/UX magic or backend integration, I bring ideas to life one line of code at a time! 💡
 
 ## 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Bloc](https://img.shields.io/badge/Bloc-004680?style=for-the-badge&logo=bloc&logoColor=white)  ![Web Sockets](https://img.shields.io/badge/Web%20Sockets-008FCC?style=for-the-badge&logo=websocket&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-005F99?style=for-the-badge&logo=api&logoColor=white)  ![GetX](https://img.shields.io/badge/GetX-4A90E2?style=for-the-badge&logo=getx&logoColor=white)  ![Riverpod](https://img.shields.io/badge/Riverpod-46A2F1?style=for-the-badge&logo=riverpod&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![Bloc](https://img.shields.io/badge/Bloc-004680?style=for-the-badge&logo=bloc&logoColor=white) ![Web Sockets](https://img.shields.io/badge/Web%20Sockets-008FCC?style=for-the-badge&logo=websocket&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005F99?style=for-the-badge&logo=api&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-4A90E2?style=for-the-badge&logo=getx&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-46A2F1?style=for-the-badge&logo=riverpod&logoColor=white)
+
 
 - ### Frontend 📱 :
   Flutter, Dart, Bloc, GetX, Riverpod, Dio, Socket.io & REST API integration
@@ -20,11 +22,29 @@ Flutter expert, and a tech explorer from Benin. I craft smooth, high-performance
 
 ## 🌟 Somes Projects
 
+### Amazing AFA
+📍 La Zone - Dec 2024 – Present
+
+- Building a responsive admin & users apps using Flutter, Dart & Appwrite
+- Features include :  
+     - data sync across multiples sources (Billetweb & Formbricks);
+     - self hosting saas products like Appwrite, Formbricks;
+     - Calendar view to display events
+  ![1768406458701](https://github.com/user-attachments/assets/798bd155-4bf1-4ee6-bea7-e9f1da16dba7)
+
+
 ### Ticket Checker
 📍 La Zone - Dec 2024 – Present
   
 - Built a receipt scan app in just 3 months! 
-- Features include seamless Flutter Bloc integration, Appwrite backend, and OpenAI API magic.  
+- Features include seamless Flutter Bloc integration, Appwrite backend, and OpenAI API magic.
+<img  height="200" alt="Screenshot_20260122-162022" src="https://github.com/user-attachments/assets/f09f16d7-8e54-4739-b7ed-b3c247f84014" />
+<img  height="200" alt="Screenshot_20260122-161956" src="https://github.com/user-attachments/assets/8388c083-ceda-4bd5-a7e5-ef2270d90aed" />
+<img  height="200" alt="Screenshot_20260122-161902" src="https://github.com/user-attachments/assets/73c78d4a-871a-446c-b5ed-1743d02dabda" />
+<img  height="200" alt="Screenshot_20260122-161821" src="https://github.com/user-attachments/assets/618105ed-c05e-4d66-b3dd-7b79b98ce859" />
+<img  height="200" alt="Screenshot_20260122-161811" src="https://github.com/user-attachments/assets/d1af59ef-4168-45d7-be55-353911493f3e" />
+<img  height="200" alt="Screenshot_20260122-161740" src="https://github.com/user-attachments/assets/55a7b891-fa23-4baa-8c83-18ce973389e7" />
+
 
 ---
 
