@@ -11,8 +11,8 @@ Flutter expert, and a tech explorer from Benin. I craft smooth, high-performance
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![Bloc](https://img.shields.io/badge/Bloc-004680?style=for-the-badge&logo=bloc&logoColor=white) ![Web Sockets](https://img.shields.io/badge/Web%20Sockets-008FCC?style=for-the-badge&logo=websocket&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005F99?style=for-the-badge&logo=api&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-4A90E2?style=for-the-badge&logo=getx&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-46A2F1?style=for-the-badge&logo=riverpod&logoColor=white)
 
 
-- ### Frontend 📱 :
-  Flutter, Dart, Bloc, GetX, Riverpod, Dio, Socket.io & REST API integration
+- ### Mobile 📱 :
+  Flutter, Dart, Bloc, GetX, Riverpod, Dio & REST API integration
   
 - ### Backend 🔗 :
   Nodejs, Express Js, FastApi, Appwrite, Firebase, Supabase REST API, WebSocket
